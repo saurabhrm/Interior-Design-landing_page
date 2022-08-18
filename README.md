@@ -15,6 +15,7 @@
 - float Property 
 - display property 
 - css transform property
+- add media query for mobile responsive
 
 >### Time Required to Complete This Project
 - 8hr 
